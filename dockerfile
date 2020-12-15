@@ -1,6 +1,6 @@
 FROM python:3
 
-ADD nerdocalire.py /
+ADD RubberDuckDebuggerBot.py /
 
 RUN pip install python-telegram-bot
 
